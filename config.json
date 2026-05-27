@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenurocess",
+        "uuid": 10331724,
+        "checksum": "3ar1f"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
